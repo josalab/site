@@ -1,0 +1,11 @@
+site_name: Escola Municipal Josafá Sisino Machado
+site_url: http://josalab.parnamirim.rn.gov.br
+repo_url: https://github.com/josalab/site
+theme:
+  name: mkdocs
+
+nav:
+  - Início: index.md
+  - Turmas: 'turmas/index.md'
+  - Sobre: sobre.md
+
