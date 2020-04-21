@@ -6,6 +6,7 @@ theme:
 
 nav:
   - Início: index.md
+  - Agenda: agenda/2020/README.md
   - Turmas: 'turmas/index.md'
   - Sobre: sobre.md
 
